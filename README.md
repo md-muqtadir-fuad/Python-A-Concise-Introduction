@@ -1,1 +1,1 @@
-# coursera-Python-Programming-Concise-Introduction-module-B
+# Coursera-Python Programming: A Concise Introduction (module B, week 2)
