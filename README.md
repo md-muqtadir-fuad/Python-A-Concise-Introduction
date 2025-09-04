@@ -12,7 +12,7 @@ The course introduces **Python 3.x programming** using hands-on instruction with
 - Designed for **beginners** with no prior programming background, but flexible for faster learners.
 - Course length: **4 weeks** (4 modules).  
 - Effort: **5–10 hours per week**.  
-- Certificate available (paid).
+- Certificate available.
 
 ---
 
@@ -55,12 +55,4 @@ The course introduces **Python 3.x programming** using hands-on instruction with
 - **Spyder IDE** (comes with Anaconda)  
 - Basic text editor for editing `.py` files.  
 
----
 
-## 🚀 Usage
-
-Clone the repository and open the module folders in Spyder:
-
-```bash
-git clone https://github.com/<your-username>/coursera-python-programming.git
-cd coursera-python-programming
